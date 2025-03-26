@@ -24,7 +24,7 @@ JavaScript: Scripting language used for client-side interactions and enhancing t
 Clone the repository: git clone https://github.com/your-username/crop-recommendation-system.git
 Install the required dependencies: pip install -r requirements.txt
 Run the application: python app.py
-Access the application through the web browser at http://localhost:5000
+Access the application through the web browser at http://127.0.0.1:5000
 # Future Enhancements
 Integration of real-time weather data to improve the accuracy of recommendations.
 Incorporation of crop market prices and profitability analysis to assist farmers in making economically viable decisions.
